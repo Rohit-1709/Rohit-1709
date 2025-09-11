@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hi there 👋 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rohit-1709)
 
-I'm Rohit Prajapati, an aspiring software developer with a strong foundation in Java programming and a focus on building RESTful APIs and solving complex problems through a solid understanding of Data Structures and Algorithms (DSA).
+I'm Rohit Prajapati — an aspiring Java developer with a solid foundation in DSA, Spring Boot, and RESTful APIs, and hands-on experience in QA Functional Testing. Passionate about building scalable applications and ensuring top-notch software quality.
 
-### About Me
+### About Me  🚀 Java Developer | QA Enthusiast | Problem Solver
 
 * 📚 Strong foundation in Java programming
 * 💻 Focus on building RESTful APIs and Springboot Applications
+* 🧪 Hands-on with manual & automation testing, Jira, Postman, and Selenium
 * 💻 Good knowledge of Data Structure & Algorithms for Solving complex problems
 * ☁️ Knowledgeable in cloud technologies and AWS services
 
@@ -33,9 +34,11 @@ I'm Rohit Prajapati, an aspiring software developer with a strong foundation in 
 ### Technical Skills
 
 * **Languages**: JAVA, Python, C
-* **Web Skills**: HTML, CSS, JavaScript
-* **Cloud Computing**: AWS Services
-* **Other**: Windows, Linux, MySql, Computer Networking
+* **Web**: HTML, CSS, JavaScript
+* **Database**: MySQL, MongoDB
+* **Tools**: Git, Jira, Postman, Selenium, TestMo, WebDriverIO, TestNG, Maven
+* **Cloud Computing**: AWS Services(EC2, S3, EBS, IAM)
+* **Other**: Windows & Linux OS, Computer Networking, Agile Methodology, AI/ML
 
 ### Achievements
 
